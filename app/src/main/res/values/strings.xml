@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AbSafeArgs-parcelize</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calculate_average_score">Calculate Average Score</string>
+    <string name="final_exam_score">Final Exam Score</string>
+    <string name="midterm_exam_score">Midterm Exam Score</string>
+    <string name="course_name">Course Name</string>
+    <string name="average_score">Average Score</string>
+</resources>
